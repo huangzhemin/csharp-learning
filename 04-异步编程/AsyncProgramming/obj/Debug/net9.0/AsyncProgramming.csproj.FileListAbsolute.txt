@@ -1,0 +1,15 @@
+/Users/patrikhuang/metaNode/csharp-learning/04-异步编程/AsyncProgramming/bin/Debug/net9.0/AsyncProgramming
+/Users/patrikhuang/metaNode/csharp-learning/04-异步编程/AsyncProgramming/bin/Debug/net9.0/AsyncProgramming.deps.json
+/Users/patrikhuang/metaNode/csharp-learning/04-异步编程/AsyncProgramming/bin/Debug/net9.0/AsyncProgramming.runtimeconfig.json
+/Users/patrikhuang/metaNode/csharp-learning/04-异步编程/AsyncProgramming/bin/Debug/net9.0/AsyncProgramming.dll
+/Users/patrikhuang/metaNode/csharp-learning/04-异步编程/AsyncProgramming/bin/Debug/net9.0/AsyncProgramming.pdb
+/Users/patrikhuang/metaNode/csharp-learning/04-异步编程/AsyncProgramming/obj/Debug/net9.0/AsyncProgramming.GeneratedMSBuildEditorConfig.editorconfig
+/Users/patrikhuang/metaNode/csharp-learning/04-异步编程/AsyncProgramming/obj/Debug/net9.0/AsyncProgramming.AssemblyInfoInputs.cache
+/Users/patrikhuang/metaNode/csharp-learning/04-异步编程/AsyncProgramming/obj/Debug/net9.0/AsyncProgramming.AssemblyInfo.cs
+/Users/patrikhuang/metaNode/csharp-learning/04-异步编程/AsyncProgramming/obj/Debug/net9.0/AsyncProgramming.csproj.CoreCompileInputs.cache
+/Users/patrikhuang/metaNode/csharp-learning/04-异步编程/AsyncProgramming/obj/Debug/net9.0/AsyncProgramming.sourcelink.json
+/Users/patrikhuang/metaNode/csharp-learning/04-异步编程/AsyncProgramming/obj/Debug/net9.0/AsyncProgramming.dll
+/Users/patrikhuang/metaNode/csharp-learning/04-异步编程/AsyncProgramming/obj/Debug/net9.0/refint/AsyncProgramming.dll
+/Users/patrikhuang/metaNode/csharp-learning/04-异步编程/AsyncProgramming/obj/Debug/net9.0/AsyncProgramming.pdb
+/Users/patrikhuang/metaNode/csharp-learning/04-异步编程/AsyncProgramming/obj/Debug/net9.0/AsyncProgramming.genruntimeconfig.cache
+/Users/patrikhuang/metaNode/csharp-learning/04-异步编程/AsyncProgramming/obj/Debug/net9.0/ref/AsyncProgramming.dll

@@ -1,0 +1,48 @@
+### 获取所有天气预测
+GET https://localhost:7000/api/weatherforecast
+
+### 获取特定ID的天气预测
+GET https://localhost:7000/api/weatherforecast/1
+
+### 获取所有学生
+GET https://localhost:7000/api/students
+
+### 获取特定ID的学生
+GET https://localhost:7000/api/students/1
+
+### 创建新学生
+POST https://localhost:7000/api/students
+Content-Type: application/json
+
+{
+  "name": "新学生",
+  "age": 23,
+  "email": "newstudent@example.com",
+  "major": "软件工程"
+}
+
+### 更新学生信息
+PUT https://localhost:7000/api/students/1
+Content-Type: application/json
+
+{
+  "name": "张三（已更新）",
+  "age": 21,
+  "email": "zhangsan_updated@example.com",
+  "major": "计算机科学与技术"
+}
+
+### 删除学生
+DELETE https://localhost:7000/api/students/1
+
+### 搜索学生（按专业）
+GET https://localhost:7000/api/students/search\?major\=计算机
+
+### 搜索学生（按年龄）
+GET https://localhost:7000/api/students/search\?minAge\=20
+
+### 搜索学生（组合条件）
+GET https://localhost:7000/api/students/search\?major\=数学\&minAge\=20
+
+### 健康检查
+GET https://localhost:7000/api/health

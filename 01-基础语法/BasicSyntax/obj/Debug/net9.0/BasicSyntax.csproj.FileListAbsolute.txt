@@ -1,0 +1,15 @@
+/Users/patrikhuang/metaNode/csharp-learning/01-基础语法/BasicSyntax/bin/Debug/net9.0/BasicSyntax
+/Users/patrikhuang/metaNode/csharp-learning/01-基础语法/BasicSyntax/bin/Debug/net9.0/BasicSyntax.deps.json
+/Users/patrikhuang/metaNode/csharp-learning/01-基础语法/BasicSyntax/bin/Debug/net9.0/BasicSyntax.runtimeconfig.json
+/Users/patrikhuang/metaNode/csharp-learning/01-基础语法/BasicSyntax/bin/Debug/net9.0/BasicSyntax.dll
+/Users/patrikhuang/metaNode/csharp-learning/01-基础语法/BasicSyntax/bin/Debug/net9.0/BasicSyntax.pdb
+/Users/patrikhuang/metaNode/csharp-learning/01-基础语法/BasicSyntax/obj/Debug/net9.0/BasicSyntax.GeneratedMSBuildEditorConfig.editorconfig
+/Users/patrikhuang/metaNode/csharp-learning/01-基础语法/BasicSyntax/obj/Debug/net9.0/BasicSyntax.AssemblyInfoInputs.cache
+/Users/patrikhuang/metaNode/csharp-learning/01-基础语法/BasicSyntax/obj/Debug/net9.0/BasicSyntax.AssemblyInfo.cs
+/Users/patrikhuang/metaNode/csharp-learning/01-基础语法/BasicSyntax/obj/Debug/net9.0/BasicSyntax.csproj.CoreCompileInputs.cache
+/Users/patrikhuang/metaNode/csharp-learning/01-基础语法/BasicSyntax/obj/Debug/net9.0/BasicSyntax.sourcelink.json
+/Users/patrikhuang/metaNode/csharp-learning/01-基础语法/BasicSyntax/obj/Debug/net9.0/BasicSyntax.dll
+/Users/patrikhuang/metaNode/csharp-learning/01-基础语法/BasicSyntax/obj/Debug/net9.0/refint/BasicSyntax.dll
+/Users/patrikhuang/metaNode/csharp-learning/01-基础语法/BasicSyntax/obj/Debug/net9.0/BasicSyntax.pdb
+/Users/patrikhuang/metaNode/csharp-learning/01-基础语法/BasicSyntax/obj/Debug/net9.0/BasicSyntax.genruntimeconfig.cache
+/Users/patrikhuang/metaNode/csharp-learning/01-基础语法/BasicSyntax/obj/Debug/net9.0/ref/BasicSyntax.dll

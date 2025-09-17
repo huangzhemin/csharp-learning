@@ -1,0 +1,15 @@
+/Users/patrikhuang/metaNode/csharp-learning/02-面向对象编程/ObjectOrientedProgramming/bin/Debug/net9.0/ObjectOrientedProgramming
+/Users/patrikhuang/metaNode/csharp-learning/02-面向对象编程/ObjectOrientedProgramming/bin/Debug/net9.0/ObjectOrientedProgramming.deps.json
+/Users/patrikhuang/metaNode/csharp-learning/02-面向对象编程/ObjectOrientedProgramming/bin/Debug/net9.0/ObjectOrientedProgramming.runtimeconfig.json
+/Users/patrikhuang/metaNode/csharp-learning/02-面向对象编程/ObjectOrientedProgramming/bin/Debug/net9.0/ObjectOrientedProgramming.dll
+/Users/patrikhuang/metaNode/csharp-learning/02-面向对象编程/ObjectOrientedProgramming/bin/Debug/net9.0/ObjectOrientedProgramming.pdb
+/Users/patrikhuang/metaNode/csharp-learning/02-面向对象编程/ObjectOrientedProgramming/obj/Debug/net9.0/ObjectOrientedProgramming.GeneratedMSBuildEditorConfig.editorconfig
+/Users/patrikhuang/metaNode/csharp-learning/02-面向对象编程/ObjectOrientedProgramming/obj/Debug/net9.0/ObjectOrientedProgramming.AssemblyInfoInputs.cache
+/Users/patrikhuang/metaNode/csharp-learning/02-面向对象编程/ObjectOrientedProgramming/obj/Debug/net9.0/ObjectOrientedProgramming.AssemblyInfo.cs
+/Users/patrikhuang/metaNode/csharp-learning/02-面向对象编程/ObjectOrientedProgramming/obj/Debug/net9.0/ObjectOrientedProgramming.csproj.CoreCompileInputs.cache
+/Users/patrikhuang/metaNode/csharp-learning/02-面向对象编程/ObjectOrientedProgramming/obj/Debug/net9.0/ObjectOrientedProgramming.sourcelink.json
+/Users/patrikhuang/metaNode/csharp-learning/02-面向对象编程/ObjectOrientedProgramming/obj/Debug/net9.0/ObjectOrientedProgramming.dll
+/Users/patrikhuang/metaNode/csharp-learning/02-面向对象编程/ObjectOrientedProgramming/obj/Debug/net9.0/refint/ObjectOrientedProgramming.dll
+/Users/patrikhuang/metaNode/csharp-learning/02-面向对象编程/ObjectOrientedProgramming/obj/Debug/net9.0/ObjectOrientedProgramming.pdb
+/Users/patrikhuang/metaNode/csharp-learning/02-面向对象编程/ObjectOrientedProgramming/obj/Debug/net9.0/ObjectOrientedProgramming.genruntimeconfig.cache
+/Users/patrikhuang/metaNode/csharp-learning/02-面向对象编程/ObjectOrientedProgramming/obj/Debug/net9.0/ref/ObjectOrientedProgramming.dll

@@ -1,0 +1,15 @@
+/Users/patrikhuang/metaNode/csharp-learning/05-实际应用/FileOperations/bin/Debug/net9.0/FileOperations
+/Users/patrikhuang/metaNode/csharp-learning/05-实际应用/FileOperations/bin/Debug/net9.0/FileOperations.deps.json
+/Users/patrikhuang/metaNode/csharp-learning/05-实际应用/FileOperations/bin/Debug/net9.0/FileOperations.runtimeconfig.json
+/Users/patrikhuang/metaNode/csharp-learning/05-实际应用/FileOperations/bin/Debug/net9.0/FileOperations.dll
+/Users/patrikhuang/metaNode/csharp-learning/05-实际应用/FileOperations/bin/Debug/net9.0/FileOperations.pdb
+/Users/patrikhuang/metaNode/csharp-learning/05-实际应用/FileOperations/obj/Debug/net9.0/FileOperations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/patrikhuang/metaNode/csharp-learning/05-实际应用/FileOperations/obj/Debug/net9.0/FileOperations.AssemblyInfoInputs.cache
+/Users/patrikhuang/metaNode/csharp-learning/05-实际应用/FileOperations/obj/Debug/net9.0/FileOperations.AssemblyInfo.cs
+/Users/patrikhuang/metaNode/csharp-learning/05-实际应用/FileOperations/obj/Debug/net9.0/FileOperations.csproj.CoreCompileInputs.cache
+/Users/patrikhuang/metaNode/csharp-learning/05-实际应用/FileOperations/obj/Debug/net9.0/FileOperations.sourcelink.json
+/Users/patrikhuang/metaNode/csharp-learning/05-实际应用/FileOperations/obj/Debug/net9.0/FileOperations.dll
+/Users/patrikhuang/metaNode/csharp-learning/05-实际应用/FileOperations/obj/Debug/net9.0/refint/FileOperations.dll
+/Users/patrikhuang/metaNode/csharp-learning/05-实际应用/FileOperations/obj/Debug/net9.0/FileOperations.pdb
+/Users/patrikhuang/metaNode/csharp-learning/05-实际应用/FileOperations/obj/Debug/net9.0/FileOperations.genruntimeconfig.cache
+/Users/patrikhuang/metaNode/csharp-learning/05-实际应用/FileOperations/obj/Debug/net9.0/ref/FileOperations.dll

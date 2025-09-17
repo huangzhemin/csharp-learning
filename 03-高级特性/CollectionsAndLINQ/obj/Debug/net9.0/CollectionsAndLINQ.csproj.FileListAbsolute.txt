@@ -1,0 +1,15 @@
+/Users/patrikhuang/metaNode/csharp-learning/03-高级特性/CollectionsAndLINQ/bin/Debug/net9.0/CollectionsAndLINQ
+/Users/patrikhuang/metaNode/csharp-learning/03-高级特性/CollectionsAndLINQ/bin/Debug/net9.0/CollectionsAndLINQ.deps.json
+/Users/patrikhuang/metaNode/csharp-learning/03-高级特性/CollectionsAndLINQ/bin/Debug/net9.0/CollectionsAndLINQ.runtimeconfig.json
+/Users/patrikhuang/metaNode/csharp-learning/03-高级特性/CollectionsAndLINQ/bin/Debug/net9.0/CollectionsAndLINQ.dll
+/Users/patrikhuang/metaNode/csharp-learning/03-高级特性/CollectionsAndLINQ/bin/Debug/net9.0/CollectionsAndLINQ.pdb
+/Users/patrikhuang/metaNode/csharp-learning/03-高级特性/CollectionsAndLINQ/obj/Debug/net9.0/CollectionsAndLINQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/patrikhuang/metaNode/csharp-learning/03-高级特性/CollectionsAndLINQ/obj/Debug/net9.0/CollectionsAndLINQ.AssemblyInfoInputs.cache
+/Users/patrikhuang/metaNode/csharp-learning/03-高级特性/CollectionsAndLINQ/obj/Debug/net9.0/CollectionsAndLINQ.AssemblyInfo.cs
+/Users/patrikhuang/metaNode/csharp-learning/03-高级特性/CollectionsAndLINQ/obj/Debug/net9.0/CollectionsAndLINQ.csproj.CoreCompileInputs.cache
+/Users/patrikhuang/metaNode/csharp-learning/03-高级特性/CollectionsAndLINQ/obj/Debug/net9.0/CollectionsAndLINQ.sourcelink.json
+/Users/patrikhuang/metaNode/csharp-learning/03-高级特性/CollectionsAndLINQ/obj/Debug/net9.0/CollectionsAndLINQ.dll
+/Users/patrikhuang/metaNode/csharp-learning/03-高级特性/CollectionsAndLINQ/obj/Debug/net9.0/refint/CollectionsAndLINQ.dll
+/Users/patrikhuang/metaNode/csharp-learning/03-高级特性/CollectionsAndLINQ/obj/Debug/net9.0/CollectionsAndLINQ.pdb
+/Users/patrikhuang/metaNode/csharp-learning/03-高级特性/CollectionsAndLINQ/obj/Debug/net9.0/CollectionsAndLINQ.genruntimeconfig.cache
+/Users/patrikhuang/metaNode/csharp-learning/03-高级特性/CollectionsAndLINQ/obj/Debug/net9.0/ref/CollectionsAndLINQ.dll
